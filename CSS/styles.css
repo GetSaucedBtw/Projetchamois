@@ -1,6 +1,5 @@
 #aside{
 float: right;
-margin-top:6%;
 margin-right: 5%;
 color: antiquewhite;
 }
@@ -13,3 +12,31 @@ color: bisque;
 #body{
 background-image: url(../Images/fondchamois.jpg);
 }
+
+
+#boutton{
+height: 50px;
+width: 140px;
+
+
+
+}
+
+
+#ban{
+height: 70px;
+
+
+}
+
+#img{
+height: 10px ;
+width: 10px;
+
+}
+
+#liens{
+text-decoration: none;
+
+}
+
